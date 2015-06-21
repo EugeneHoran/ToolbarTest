@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_done"
+        android:icon="@mipmap/ic_done_black_24dp"
+        android:orderInCategory="300"
+        android:title="Done"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_headline"
+        android:icon="@mipmap/ic_view_headline_black_24dp"
+        android:orderInCategory="200"
+        android:title="Headline"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_shuffle"
+        android:icon="@mipmap/ic_shuffle_black_24dp"
+        android:orderInCategory="100"
+        android:title="Shuffle"
+        app:showAsAction="always"/>
+</menu>

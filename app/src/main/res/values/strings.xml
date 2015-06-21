@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToolbarTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Nav Drawer-->
+    <string-array name="nav_list">
+        <item>Fragment One</item>
+        <item>Fragment Two</item>
+    </string-array>
+</resources>
